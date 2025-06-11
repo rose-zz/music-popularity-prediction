@@ -95,10 +95,10 @@ This project uses datasets under the Kaggle license—please ensure compliance w
 
 ## 🤝 Contributors
 
-- Jennifer Chen
-- Sophia Dai
-- Leslie Kim
-- Rose Zhao
+- [Jennifer Chen](https://github.com/ChenJieNi2004)
+- [Sophia Dai](https://github.com/blubmeowfishycat)
+- [Leslie Kim](https://github.com/Leslie714)
+- [Rose Zhao](https://github.com/rose-zz)
 
 ---
 
